@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tale/static/css/main.e6c13ad2.css",
+    "main.js": "/tale/static/js/main.3300c05c.js",
+    "static/js/453.fa8559dc.chunk.js": "/tale/static/js/453.fa8559dc.chunk.js",
+    "static/media/about-us-image.jpg": "/tale/static/media/about-us-image.ae96581fa190be15e3d4.jpg",
+    "static/media/video-thumb.jpg": "/tale/static/media/video-thumb.907dfe36ad665ec75d66.jpg",
+    "static/media/happyclient-01.jpg": "/tale/static/media/happyclient-01.1bcee99110a7317e8fa8.jpg",
+    "index.html": "/tale/index.html",
+    "main.e6c13ad2.css.map": "/tale/static/css/main.e6c13ad2.css.map",
+    "main.3300c05c.js.map": "/tale/static/js/main.3300c05c.js.map",
+    "453.fa8559dc.chunk.js.map": "/tale/static/js/453.fa8559dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3300c05c.js"
+  ]
+}
